@@ -1,0 +1,7 @@
+{
+  "name": "BetterWMS",
+  "version": "0.0.1",
+  "description": "Leaflet WMS + GetFeatureInfo",
+  "main": "dist/L.TileLayer.BetterWMS.min.jss",
+  "browser": "dist/L.TileLayer.BetterWMS.min.js"
+}
