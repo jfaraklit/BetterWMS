@@ -1,0 +1,2 @@
+# BetterWMS
+Leaflet WMS + GetFeatureInfo
